@@ -1,0 +1,98 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:rgb(216, 216, 216);
+}
+
+/* navigation  */
+
+/* ul{
+    list-style-type: none;
+    text-align:center;
+    background-color: rgb(236, 108, 130);
+    margin:0;
+    padding:10px 0;
+    margin-bottom:20px;
+}
+li{
+    display:inline;
+    padding-left:40px;
+}
+ul>li>a{
+    text-decoration: none;
+    color:white;
+}
+ul>li>a:hover{
+    color:yellow;
+} */
+
+/* container  */
+
+.con{
+    margin:0 auto;
+    padding:60px 130px;
+}
+.each{
+    background-color:white;
+    width:200px;
+    text-align:center;
+    padding:10px;
+    margin-top:15px;
+    border-radius:7px; 
+}
+.bold{
+    font-weight: 600;
+    font-size:25px;
+    margin-bottom:20px;
+}
+.smFont{
+    font-size:13px;
+}
+.inCon{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+/* manage admin */
+.con>a{
+    text-decoration: none;
+    margin:20px;
+}
+table{
+    margin-top:20px;
+}
+th{
+    border-bottom:2px solid rgb(124, 124, 124);
+    padding:15px 50px;
+    font-size:15px;
+    text-align:left;
+}
+td{
+    padding:15px 50px;
+    font-size:13.5px;
+    text-align:left;
+}
+td>a{
+    text-decoration: none;
+}
+
+/* footer  */
+
+.footer{
+    background-color:rgb(236, 108, 130);
+    padding:5px 0;
+    text-align:center;
+}
+.msg{
+    padding-top:5px;
+    color:white;
+}
+.dev{
+    text-decoration: none;
+    color:gold;
+}
+.dev:hover{
+    color:yellow;
+}
+
