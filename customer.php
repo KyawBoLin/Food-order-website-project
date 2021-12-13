@@ -91,7 +91,7 @@
 
             <h5 class="font size bold">Address</h5>
             <div class="eachContainer">
-                No.(301),(12)Street,(10)Block,South Okkalapa,Yangon.
+                South Okkalapa,Yangon.
             </div>
         </div>
     </div>

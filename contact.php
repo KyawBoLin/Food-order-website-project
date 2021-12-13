@@ -15,13 +15,12 @@
 }
 </style>
     <div class="customer_page container">
-        <h3 class="font size text-center">Shop</h3>
-            <h5 class="font size bold" id="about_shop">About Shop</h5>
+        <h3 class="font size text-center">DooMoodle</h3>
+            <h5 class="font size bold" id="about_shop">About DooMoodle</h5>
             <div class="eachContainer">
                 <div class="insideEach">
                     
-                        Launched in 2012, Shop is South Asia's online shopping and selling destination of choice – present in Pakistan, Bangladesh, Sri Lanka, Myanmar and Nepal. Supported by a wide range of tailored marketing, data, and service solutions, the pioneering ecommerce ecosystem in South Asia has 30,000 sellers and 500 brands, serving 5 million consumers. With 2 million products available, Shop offers a diverse assortment of products in categories ranging from consumer electronics to household goods, beauty, fashion, sports equipment, and groceries. Focused on providing an excellent customer experience, it offers multiple payment methods including cash-on-delivery, comprehensive customer care and hassle-free returns.
-                        Shop is owned by Alibaba Group Holding Limited.
+                Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web websites and online shopping marketplaces in Bangladesh. According to Prothom Alo in 2014, about 1.5 to 2 million people shopped online every year, and Online shopping rewards are a type of loyalty program to e-commerce shoppers. The advent of online shopping has resulted in the rapid development of many consumers to select any product online from a retailer's website and to have it delivered relatively quickly. Using online shopping methods, consumers do not that the data collection of online marketplace operators result in surveillance capitalism. Drop shipping Online Shopping Digital distribution Comparison.
                     
                 </div>
             </div>
@@ -52,7 +51,7 @@
             <div class="eachContainer">
                 <div class="insideEach">
                     <p>
-                        Welcome to the shop.com.mm website (the "Site") operated by E-Cart Internet Services. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+                        Welcome to the doomoodle food order website (the "Site") operated by E-Cart Internet Services. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
                         This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
                         
@@ -75,7 +74,9 @@
                     </div>
                     <div class="qandans">
                             <div style="color:royalblue" class="myDiv">Third Parties and Links</div>
-                            <div class='hide'>We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance.
+                            <div class='hide'>
+                                
+                            We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance.
 
                                 We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
                                 
@@ -96,7 +97,7 @@
                     <p class="hl">
                        Email    - kyawbobolin1995@gmail.com<br>
                        Phone    - +95 9 799 586 273<br>
-                       Address  - No.(301),(12)Street,(10)Block,South Okkalapa,Yangon. 
+                       Address  - South Okkalapa,Yangon. 
                     </p>
                 </div>
             </div>

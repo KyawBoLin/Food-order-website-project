@@ -162,9 +162,9 @@
                                                     if($image_select==null){
                                                         echo "Not image found.";
                                                     }else{
-                                                        echo "<img src=".IMG_URL."food/".$image_select."' class='selImg'>";
+                                                        echo "<img src=".IMG_URL."food/".$image_select." class='selImg'>";
                                                     }
-                                
+                                 
                                                 ?>
                                             </div>
                                             <div class="ft">
@@ -187,7 +187,7 @@
                     <fieldset class="fi1 po1 ordForm">
                         <legend class="leg po2 font text-white">Selected Food</legend>
                         <div class="sel">
-                            <div><img src="img/food/<?php echo $image;?>" class="selImg"></div>
+                            <div><img src="<?php echo IMG_URL?>food/<?php echo $image;?>" class="selImg"></div>
                             <div class="ft">
                                 <h5 class="bold text-white"><?php echo $title; ?></h5>
                                 <input type="hidden" name="title" value="<?php echo $title; ?>">

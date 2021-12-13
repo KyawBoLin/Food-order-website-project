@@ -9,13 +9,13 @@
             <a href="customer.php?tag=contact#payment">Payments</a><br>
         </div>
         <div>
-            <h4 class="payFont">Shop</h4>
-            <a href="contact.php?tag=contact#about_shop">About Shop</a><br>
+            <h4 class="payFont">DooMoodle</h4>
+            <a href="contact.php?tag=contact#about_shop">About DooMoodle</a><br>
             <a href="contact.php?tag=contact#careers">Careers</a><br>
-            <a href="customer.php?tag=customer">Shop Care</a><br>
+            <a href="customer.php?tag=customer">DooMoodle Care</a><br>
             <a href="contact.php?tag=contact#tandc">Terms & Conditions</a><br>
             <a href="contact.php?tag=contact#pandc">Privacy Policy</a><br>
-            <a href="#">Online Shop App</a><br>
+            <a href="#">Online DooMoodle App</a><br>
         </div>
         <div>
             <div><img src="<?php echo IMG_URL;?>appicon.png" class="app"></div>
